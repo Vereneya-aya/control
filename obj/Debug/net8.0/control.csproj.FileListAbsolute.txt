@@ -1,0 +1,15 @@
+/Users/veranikalis/Desktop/control/bin/Debug/net8.0/control
+/Users/veranikalis/Desktop/control/bin/Debug/net8.0/control.deps.json
+/Users/veranikalis/Desktop/control/bin/Debug/net8.0/control.runtimeconfig.json
+/Users/veranikalis/Desktop/control/bin/Debug/net8.0/control.dll
+/Users/veranikalis/Desktop/control/bin/Debug/net8.0/control.pdb
+/Users/veranikalis/Desktop/control/obj/Debug/net8.0/control.GeneratedMSBuildEditorConfig.editorconfig
+/Users/veranikalis/Desktop/control/obj/Debug/net8.0/control.AssemblyInfoInputs.cache
+/Users/veranikalis/Desktop/control/obj/Debug/net8.0/control.AssemblyInfo.cs
+/Users/veranikalis/Desktop/control/obj/Debug/net8.0/control.csproj.CoreCompileInputs.cache
+/Users/veranikalis/Desktop/control/obj/Debug/net8.0/control.sourcelink.json
+/Users/veranikalis/Desktop/control/obj/Debug/net8.0/control.dll
+/Users/veranikalis/Desktop/control/obj/Debug/net8.0/refint/control.dll
+/Users/veranikalis/Desktop/control/obj/Debug/net8.0/control.pdb
+/Users/veranikalis/Desktop/control/obj/Debug/net8.0/control.genruntimeconfig.cache
+/Users/veranikalis/Desktop/control/obj/Debug/net8.0/ref/control.dll
